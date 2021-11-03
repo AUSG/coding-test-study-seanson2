@@ -6,11 +6,11 @@
 
 <table>
   <tr>
-      <td align="center"><a href="https://github.com/rdd9223"><img src="https://avatars.githubusercontent.com/u/46023074?v=4" width="100px;" alt=""/><br /><sub><b>강영우</b></sub></a></td>
+<!--       <td align="center"><a href="https://github.com/rdd9223"><img src="https://avatars.githubusercontent.com/u/46023074?v=4" width="100px;" alt=""/><br /><sub><b>강영우</b></sub></a></td> -->
           <td align="center"><a href="https://github.com/vo0a"><img src="https://avatars.githubusercontent.com/u/44438366?v=4" width="100px;" alt=""/><br /><sub><b>김다롬</b></sub></a></td>
     <td align="center"><a href="https://github.com/RustShark"><img src="https://avatars.githubusercontent.com/u/58954057?v=4" width="100px;" alt=""/><br /><sub><b>오규태</b></sub></a></td>
     <td align="center"><a href="https://github.com/Ohyaelim"><img src="https://avatars.githubusercontent.com/u/53201847?v=4" width="100px;" alt=""/><br /><sub><b>오예림</b></sub></a></td>
-    <td align="center"><a href="https://github.com/nanaeu"><img src="https://avatars.githubusercontent.com/u/25071311?v=4?s=100" width="100px;" alt=""/><br /><sub><b>이유진</b></sub></a></td>
+    <td align="center"><a href="https://github.com/nanaeu"><img src="https://avatars.githubusercontent.com/u/55730357?v=4" width="100px;" alt=""/><br /><sub><b>이유진</b></sub></a></td>
       <td align="center"><a href="https://github.com/plzprayme"><img src="https://avatars.githubusercontent.com/u/34934883?s=96&v=4" width="100px;" alt=""/><br /><sub><b>황성찬</b></sub></a></td>      
   </tr>
 </table>
@@ -36,10 +36,10 @@
             <th></th>
             <th><strong>1 주차</strong></th>
 	</tr>
-	<tr>
+	<!-- 	<tr>
             <td><strong>강영우</strong></td>
         	<td>💯</td>
-	</tr>
+	</tr> -->
     <tr>
             <td><strong>김다롬</strong></td>
         	<td>💯</td>
