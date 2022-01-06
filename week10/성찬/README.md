@@ -22,6 +22,6 @@ Created: January 6, 2022 3:35 PM
 6. 발표 자료를 읽으면서 또 학습이 가능 (feat. 자괴감)
 
 # 추천 학습 자료
-류호석 패캠 알고리즘 강의: [https://github.com/rhs0266/FastCampus](https://github.com/rhs0266/FastCampus)
-집단지성 코테 대비 문제집: [https://github.com/tony9402/baekjoon](https://github.com/tony9402/baekjoon)
-파이썬 알고리즘 인터뷰: [https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
+류호석 패캠 알고리즘 강의: [https://github.com/rhs0266/FastCampus](https://github.com/rhs0266/FastCampus)  
+집단지성 코테 대비 문제집: [https://github.com/tony9402/baekjoon](https://github.com/tony9402/baekjoon)  
+파이썬 알고리즘 인터뷰: [https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)  
