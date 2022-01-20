@@ -11,6 +11,7 @@
       <td align="center"><a href="https://github.com/wjdrbs96"><img src="https://avatars.githubusercontent.com/u/45676906?v=4" width="100px;" alt=""/><br /><sub><b>최정균</b></sub></a></td>
       <td align="center"><a href="https://github.com/cheongha"><img src="https://avatars.githubusercontent.com/u/51499782?v=4" width="100px;" alt=""/><br /><sub><b>성청하</b></sub></a></td>
     <td align="center"><a href="https://github.com/gineepark"><img src="https://avatars.githubusercontent.com/u/60264957?v=4" width="100px;" alt=""/><br /><sub><b>박진희</b></sub></a></td>
+    <td align="center"><a href="https://github.com/umi0410"><img src="https://avatars.githubusercontent.com/u/33250725?v=4" width="100px;" alt=""/><br /><sub><b>박진수</b></sub></a></td>
   </tr>
 </table>
 
