@@ -3,9 +3,6 @@ package DAY03.P9202;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-// 주석만 보면서 다시 풀어보자...
-// Trie - 중요!
-// 이 문제 난이도 정도로 프로 시험 출제
 
 public class Main {
 
@@ -32,7 +29,6 @@ public class Main {
         br.readLine();
 
         N = Integer.parseInt(br.readLine());
-//        StringBuilder resultSb = new StringBuilder();
         for(int n=0 ; n<N ; n++){
             visited = new boolean[4][4];
             map = new char[4][4];
@@ -113,7 +109,6 @@ public class Main {
         curNode.isEnd = true;
     }
 
-    // 이런 건 따로 메서드로 빼서 작업하는 게 수월하다
     static int compare(String arg0, String arg1) {
         // 길이 내림차순
         int comp = Integer.compare(arg1.length(), arg0.length());
