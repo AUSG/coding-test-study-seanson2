@@ -1,0 +1,45 @@
+from collections import deque
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val: int = 0, left: 'Node' = None, right: 'Node' = None, next: 'Node' = None):
+        self.val = val
+        self.left = left
+        self.right = right
+        self.next = next
+"""
+
+class Solution:
+    def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        
+        def bfs(node):
+            # 큐 생성
+            queue = deque()
+            # 큐 안에 1번 노드 넣음
+            queue.append(node)
+            
+            # 큐 안에 아무것도 없을때가지 반복
+            while queue:
+                temp_queue = deque()
+                # 임시큐에 본큐에 있는 요소 다 넣기
+                while queue:
+                    temp_queue.append(queue.popleft())
+                
+                # 임시큐에서 하나 빼기
+                temp_node = temp_queue.popleft()
+                # next 설정하기
+                if len(queue) is 0:
+                    temp_node.next = None
+                else:
+                    temp_node = temp_queue.popleft()
+                    temp_node.next = temp_next
+                    temp_queue.appendleft(temp_next)
+                    
+                # 인접 노드 넣기
+                if temp_node.left is not None:
+                    queue.append(temp_node.left)
+                if temp_node.right is not None:
+                    queue.append(temp_node.right)
+                
+        bfs(root)
+        return root
